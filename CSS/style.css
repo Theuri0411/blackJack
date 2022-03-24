@@ -1,9 +1,8 @@
 body {
-  background-image: url(../CSS/images/table.png);
+  background-image: url(../CSS/images/table.png)
 }
 h1 {
   color: goldenrod;
 }
 
-#message-el {
-}
+
